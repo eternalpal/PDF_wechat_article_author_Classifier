@@ -7,7 +7,3 @@ dist/
 __pycache__/
 *.pyc
 
-# 忽略临时测试的 PDF 或 图片
-*.pdf
-*.jpg
-*.png
